@@ -1,6 +1,9 @@
 
 visual-testing-app
-Getting started Visual regression test with PDF Image Diff Tool
+
+Getting started 
+
+Visual regression test with PDF Image Diff Tool
 
 'PDF Image Diff Tool"
 
